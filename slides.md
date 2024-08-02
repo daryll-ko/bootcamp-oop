@@ -22,7 +22,7 @@ transition: slide-left
 mdc: true
 ---
 
-# Object Oriented Programming
+# Object-Oriented Programming
 
 Daryll Ko
 
