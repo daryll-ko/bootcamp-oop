@@ -27,13 +27,13 @@ mdc: true
 Daryll Ko
 
 ---
-src: ./pages/page2.md
+src: ./pages/2.md
 ---
 
 ---
-src: ./pages/page3.md
+src: ./pages/3.md
 ---
 
 ---
-src: ./pages/page4.md
+src: ./pages/4.md
 ---
