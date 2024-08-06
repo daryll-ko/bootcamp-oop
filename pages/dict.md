@@ -87,6 +87,7 @@ Hey, Wilson the Walrus!
 
 </div>
 </v-click>
+
 <v-click>
 <p>
 "Factorizing" code
@@ -94,18 +95,27 @@ Hey, Wilson the Walrus!
 </v-click>
 
 <v-switch>
+
 <template #1>
+
+<div class="flex flex-col items-center">
 
 $ax + bx + cx$
 
 `animal = { name2 kind2 greeting2 }`
 
+</div>
+
 </template>
 <template #2>
+
+<div class="flex flex-col items-center">
 
 $(a + b + c)x$
 
 `animal2 = { name kind greeting }`
+
+</div>
 
 </template>
 </v-switch>
