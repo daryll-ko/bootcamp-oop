@@ -82,7 +82,7 @@ print(animal2["greeting"])
 
 </div>
 <v-click>
-<div>
+<div class="flex flex-col justify-center">
 
 Almost there!
 
