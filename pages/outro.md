@@ -40,6 +40,13 @@ I currently go by these profile pics, if you want to verify it's me:
 
 ![good job!](../images/good-job.png)
 
+<div class="flex flex-col items-center p-0 justify-center">
+
+<p>Link to this talk:</p>
+<a href="bootcamp-oop.vercel.app">bootcamp-oop.vercel.app</a>
+
+</div>
+
 </div>
 
 </div>
