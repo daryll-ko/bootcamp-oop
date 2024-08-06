@@ -1,4 +1,4 @@
-## Have fun!
+## Have fun! (Keep going!)
 
 <div class="flex flex-row gap-10 items-center">
 
