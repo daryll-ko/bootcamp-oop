@@ -43,7 +43,7 @@ class Mammal:
 		return f"Hey, {self.name} the {self.kind}!"
 
 	def special_greeting(self) -> str:
-		return f"Good day, {self.name} the {self.kind}!"
+		return f"Good day, {self.name} the {self.kind} of {self.habitat}!"
 ```
 
 ```py {all|12|all}
