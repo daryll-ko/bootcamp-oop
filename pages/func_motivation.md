@@ -30,7 +30,7 @@ print(animal2["greeting"])
 
 </div>
 <v-click>
-<div>
+<div class="flex flex-col justify-center">
 More possible factorization!
 </div>
 </v-click>
