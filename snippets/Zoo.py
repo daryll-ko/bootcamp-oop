@@ -1,4 +1,5 @@
 from dataclasses import dataclass
+from Mammal import Mammal
 
 
 @dataclass
@@ -21,7 +22,7 @@ class Animal:
 @dataclass
 class Zoo:
     name: str
-    animals: list[Animal]
+    animals: list[Animal | Mammal]
 
     def __repr__(self) -> str:
         return f"""\
@@ -32,19 +33,8 @@ class Zoo:
 
 {'\n'.join([*map(lambda animal: animal.wrap(), self.animals)])}"""
 
-    def add_animal(self, animal: Animal) -> None:
+    def add_animal(self, animal: Animal | Mammal) -> None:
         self.animals.append(animal)
 
     def reverse(self) -> None:
         self.animals.reverse()
-
-
-animal = Animal("Wilson", "walrus")
-
-zoo = Zoo("DCS Zoo", [])
-zoo.add_animal(animal)
-
-print(zoo)
-
-animal2 = Animal("Kevin", "kangaroo")
-zoo.add_animal(animal2)
