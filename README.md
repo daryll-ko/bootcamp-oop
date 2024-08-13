@@ -4,7 +4,9 @@
 
 Last **August 7, 2024**, I gave a talk to incoming Computer Science students about **object-oriented programming (OOP)**.
 
-Instead of throwing a bunch of definitions at them, I decided to approach the talk from a fundamentals-driven perspective: why *does* OOP exist? To accomplish this, I started from basic ideas (variables! duplication!) then gradually tailored in more of Python's constructs
+Instead of throwing a bunch of definitions at them, I decided to approach the talk from a fundamentals-driven perspective: why *does* OOP exist? To accomplish this, I started from basic ideas (using variables and duplicating them) then gradually tailored in more of Python's internal constructs.
+
+Then there's the [four pillars of OOP](https://www.freecodecamp.org/news/four-pillars-of-object-oriented-programming/). Again, I didn't want to drown the students in definitions, so I made the discussion for this part a bit light.
 
 In the end, I also gave some...life advice, if you will. Four years is a long time, and as someone at the latter end of that timeline, I wanted the students to walk away with stuff that could possibly help them keep going.
 
