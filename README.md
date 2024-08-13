@@ -10,11 +10,11 @@ Then there's the [four pillars of OOP](https://www.freecodecamp.org/news/four-pi
 
 In the end, I also gave some...life advice, if you will. Four years is a long time, and as someone at the latter end of that timeline, I wanted the students to walk away with stuff that could possibly help them keep going.
 
-I wouldn't call myself a speaker, but I hope I managed to somehow help those young ones. `^^;`
+I wouldn't call myself a speaker, but I hope I managed to somehow help those young ones. ^^;
 
 ## Development
 
-The slide deck was made using [Slidev](https://sli.dev/), which I used for the first time. I wanted the tech to be **feature-rich** and **Markdown-based**, and Slidev seemed to tick all the boxes for me. The code animations were super cool to look at, too! `^^`
+The slide deck was made using [Slidev](https://sli.dev/), which I used for the first time. I wanted the tech to be **feature-rich** and **Markdown-based**, and Slidev seemed to tick all the boxes for me. The code animations were super cool to look at, too! ^^
 
 In the `pages` folder, you'll see that I used one Markdown file for each slide; this made the project organized and allowed me to reuse a few slides will 0 cost. One thing I was debating on was whether to name slides *numerically* (`1.md`, `2.md`, etc.) or *thematically* (`intro.md`, `func_motivation.md`, etc.); I later on realized that the latter would be much safer if I needed to say, reorder the slides.
 
