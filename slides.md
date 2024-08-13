@@ -28,7 +28,7 @@ fonts:
 
 <p class="text-gray-500 text-sm">
 
-Click → to move _within_ a slide, ↓ to move _across_ slides
+Click ← or → to move _within_ a slide, ↑ or ↓ to move _across_ slides
 
 </p>
 
